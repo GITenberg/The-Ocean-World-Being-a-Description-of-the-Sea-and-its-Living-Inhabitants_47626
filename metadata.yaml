@@ -1,4 +1,8 @@
 _repo: The-Ocean-World-Being-a-Description-of-the-Sea-and-its-Living-Inhabitants_47626
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47626-h/images/coverpage.jpg
 creator:
   authors:
   - agent_name: Groom-Napier, Charles O.
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25945
     wikipedia: http://fr.wikipedia.org/wiki/Louis_Figuier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47626#The-Ocean-World-Being-a-Description-of-the-Sea-and-its-Living-Inhabitants
 gutenberg_issued: '2014-12-11'
 gutenberg_type: Text
 identifiers:
